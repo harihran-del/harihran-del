@@ -65,8 +65,8 @@
 ---
 
 ## 📫 Connect With Me
-- 💼 LinkedIn: https://linkedin.com/in/YOUR-LINK
-- 📧 Email: your@email.com
+- 💼 LinkedIn: https://www.linkedin.com/in/hari-haran-84b6b3354/
+- 📧 Email: hariharanayyanar@gmail.com
 
 ---
 
