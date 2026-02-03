@@ -26,11 +26,7 @@
 - AI-based calorie estimation from images
 - Offline inference support
 - React Native + ML integration
-
-### 🎥 Real-Time Human Movement Tracking
-- Live camera feed processing
-- Motion detection using **OpenCV**
-- Digital Image Processing project
+- 
 
 ### 🤖 AI PR Review Agent
 - Automated GitHub Pull Request reviews
